@@ -1,0 +1,18 @@
+.app-container {
+  background-color: white;
+  background-size: cover;
+  height: 100vh;
+}
+.content-container {
+  background-color: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 80vh;
+  width: 80vh;
+  margin: 30px;
+}
+.increase-button {
+  background-color: white;
+  color: black;
+  height: 50px;
+  width: 80px;
+  border-radius: 20px;
+}
